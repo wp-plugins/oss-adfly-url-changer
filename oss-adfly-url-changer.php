@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: OSS Adf.ly URL Changer
-Plugin URI: http://wordpress.org/extend/plugins/
+Plugin URI: http://wordpress.org/extend/plugins/oss-adfly-url-changer/
 Description: This control allows your to change all the URL in the Post to Adf.ly URL Ads
 Version: The Plugin's Version Number, e.g.: 1.0
 Author: Kamran Shahid Butt
